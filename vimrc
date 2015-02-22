@@ -1,4 +1,6 @@
+"this is my new file 
 set nocompatible
+
 \" run file with PHP CLI (CTRL-M)
 :autocmd FileType php noremap <C-M> :w!<CR>:!/Applications/MAMP/bin/php/php5.5.10/bin/php %<CR>
 
@@ -29,7 +31,7 @@ autocmd FileType css noremap <buffer> <c-f> :call CSSBeautify()<cr>
 set guifont=Menlo:h14
 syntax enable
 set background=dark
-colorscheme solarized
+" colorscheme solarized
 
 " for html tags
 filetype plugin on
