@@ -1,1 +1,1 @@
-This contains mostly defunct.
+This contains mostly defunc config files. 
